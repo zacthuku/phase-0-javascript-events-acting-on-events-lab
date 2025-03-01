@@ -271,7 +271,7 @@ realize that "passing all the tests" _is not the same_ as "building a working
 application."
 
 Be sure to do a human-level manual "play through" with your dodger to make sure
-your working code _really works_!
+your wor  king code _really works_!
 
 ![Passing the Tests is only part of the job](https://media.giphy.com/media/vvLWidwZNYH5e/200w_d.gif)
 
